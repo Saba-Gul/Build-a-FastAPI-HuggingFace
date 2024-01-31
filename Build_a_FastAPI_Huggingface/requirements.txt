@@ -1,0 +1,4 @@
+transformers==4.28.0
+tensorflow==2.12.0rc0
+fastapi==0.78.0
+uvicorn[standard]
